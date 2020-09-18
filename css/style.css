@@ -401,6 +401,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .portfolio-heading h3{
   margin-bottom: 10px;
+  font-size: 20px;
 }
 .portfolio-heading span{
   color: #000;
@@ -606,6 +607,8 @@ h1, h2, h3, h4, h5, h6, figure {
   -o-transition: 0.3s;
   transition: 0.3s;
       padding-top: 5px;
+          margin: 5px auto;
+    max-height: 300px;
 }
 .portfolio-grid .desc {
   z-index: 9;
